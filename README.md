@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AKHILLLLL47
 - 👀 I’m interested in frontend developer 
-- 🌱 I’m currently learning B.C.A.
+- 🌱 I’m currently doing B.C.A.
 - 📫 How to reach me ...
 
 <!---
